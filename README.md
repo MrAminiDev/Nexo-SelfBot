@@ -145,3 +145,13 @@ pkill -f "main.py"
 114- Download user's story and save in saved message
 115- Enable automatic saving of timed media
 116- Disable automatic saving of timed media
+
+
+
+## Support the project with cryptocurrency
+- TRX : `TLfVhyK6ihTuPNtFpuhULNuJaiKFLHxMFL`
+- Ton : `UQC42Zx1E8SQunnNIx00UZBr_GEs_2kTgT6HBcg_S64GzUj4`
+- USDT (Bep20) : `0xED771A849B8D911f30804Cb68e76adcc5bcF5D16`
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/MrAminiDev/Nexo-SelfBot.svg?variant=adaptive)](https://starchart.cc/MrAminiDev/Nexo-SelfBot)
