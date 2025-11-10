@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/MrAminiDev/Nexo-SelfBot/main/Nexo.PNG" width="500"></div><br>
+<div align="center"><img src="https://raw.githubusercontent.com/MrAminiDev/Nexo-SelfBot/main/Nexo.png" width="500"></div><br>
 <div align="center">
 برای توضیحات <a href="https://github.com/MrAminiNezhad/Nexo-SelfBot/blob/main/README-fa.md"> فارسی اینجا بزنید </a>
 
